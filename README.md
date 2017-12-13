@@ -8,6 +8,8 @@ Adding new line for rebase
 
 ## Deployment 
 
+bla bla bla bla
+
 ## Purpose
 
 Sample website with plenty of files for demos
