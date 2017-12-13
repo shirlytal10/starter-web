@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Indroduction
 
+Adding new line for rebase
+
 ## Deployment 
 
 ## Purpose
